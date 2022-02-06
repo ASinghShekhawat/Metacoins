@@ -1,0 +1,92 @@
+.mn{
+   display:flex;
+   gap:30px;
+   
+}
+.lftpart
+{
+    margin-top:200px;
+    height: 200px;
+    width:35%;
+    color:white;
+    font-size:25px;
+    margin-left: 90px;
+   
+    
+}
+.rgtpart {
+    margin-top:200px;
+    height: 200px;
+    width:55%;
+    display:flex;
+    justify-content:space-around;
+    
+}
+.smlltxt
+{
+    font-size:13px;
+    color:white;
+}
+.pr
+{
+    text-align:center;
+    color:white;
+    margin-top:15px;
+}
+.linkedin1
+{
+height: 200px;
+width:180px;
+background: #b92b27; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b92b27, #1565c0); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #b92b27, #1565c0);        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+margin-bottom: 1px;
+}
+.linkedin2
+{
+    height: 200px;
+    width:180px;
+    background: #b92b27; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b92b27, #1565c0); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #b92b27, #1565c0);        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.linkedin3
+{
+    height: 200px;
+    width:180px;
+    background: #b92b27; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b92b27, #1565c0); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #b92b27, #1565c0);        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;}
+
+.in
+{
+    height: 50px;
+    width: 50px;
+    margin-left:65px;
+}
+
+.musk
+{
+height: 90px;
+width: 90px;
+border-radius:  50%;
+margin-top: -50px;
+margin-left: 40px;
+
+}
+.vitalik
+{
+    height: 90px;
+    width: 90px;
+    border-radius:  50%;
+    margin-top: -50px;
+    margin-left: 40px;
+}
+.mark
+{
+    height: 90px;
+    width: 90px;
+    border-radius:  50%;
+    margin-top: -50px;
+    margin-left: 40px;
+}

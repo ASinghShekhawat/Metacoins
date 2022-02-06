@@ -1,0 +1,64 @@
+.carousel{
+    margin-top:150px;
+    height:400px;
+    width:100vw;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    gap: 30px;
+
+}
+.card{
+    height:330px;
+    width:280px;
+    background: #b92b27; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b92b27, #1565c0); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #b92b27, #1565c0);        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    
+    font-size:12px;
+    padding-top: 60px;
+
+}
+
+.firstcarouselheading
+{
+color:white;
+font-size:14px;
+text-align: center;
+padding-right: 40px;
+}
+.firstcarouselpara
+{
+padding-left: 30px;
+padding-right: 6px;
+
+}
+.icon1
+{
+    height:120px;
+    width:120px;
+    margin-left: 80px;
+    margin-top: -150px;
+}
+.icon2
+{
+    height:120px;
+    width:120px;
+    margin-left: 80px;
+    margin-top: -150px;
+}
+.icon3
+{
+    height:120px;
+    width:120px;
+    margin-left: 80px;
+    margin-top: -150px;
+}
+
+.left-icon
+{
+ background-color:white;
+}

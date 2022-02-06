@@ -1,0 +1,62 @@
+.mainp
+{
+    display:flex;
+    gap: 120px;
+}
+.leftp
+{
+    height:300px;
+    width:500px;
+    margin-left:90px;
+    margin-top: 200px;
+   
+}
+.barthird{
+    border: 1px solid white;
+    height: 0px;
+    width: 50px;
+}
+.rightp
+{
+   margin-top:200px;
+    height:300px;
+    width:800px;
+    
+}
+.logo1st
+{
+height:120px;
+width:280px;
+border-radius:5px;
+
+margin-right: -20px;
+margin-left: 70px;
+}
+.logo2nd
+{
+    height:100px;
+width:250px;
+border-radius:5px;
+margin-left:0px;
+
+}
+.last2img
+{
+    display:flex;
+    gap: 20px;
+}
+.logo3rd
+{
+    height:100px;
+    width:250px;
+    border-radius:5px;
+    margin-left:90px;
+    margin-top: 20px;
+}
+.logo4th
+{
+    height:100px;
+    width:250px;
+    border-radius:5px;
+    margin-top: 20px;
+}
